@@ -1,6 +1,6 @@
 ## Passo a passo
 
-1 - Clonar o repositório `git clone https://github.com/sprin](https://github.com/Caioesqueletron/spring-security.git`
+1 - Clonar o repositório `git clone https://github.com/Caioesqueletron/spring-security.git`
 
 2 - Rodar `mvn clean install` para instalar as dependências
 
